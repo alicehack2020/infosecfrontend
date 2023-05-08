@@ -1,9 +1,9 @@
 #live link
-frontend:
+frontend:https://infosecfrontend.vercel.app/
 
 #code
 backend:
-
+https://github.com/alicehack2020/infosecbackend
 
 
 
